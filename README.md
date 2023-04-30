@@ -15,7 +15,7 @@ server.cfg
 **mesleklere özel chat [qb]**
 
 ### Komut
-- ``/jobc [message]`` Aynı mesleğe sahip kişilere giden bir mesaj
+- ``/jobc [mesajınız]`` Aynı mesleğe sahip kişilere giden bir mesaj
 
 ### Kurulum
 Script i resources klasörüne atınız ve server.cfg kısmında ensure kodunu yazınız
