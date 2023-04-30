@@ -1,6 +1,6 @@
 # EN
 ## qb-jobChatqb-jobChat
-** job/emergency chat for fivem using qb**
+**job/emergency chat for fivem using qb**
 
 ### Command
 - ``/jobc [message]`` Messages to people who have the same job
@@ -12,7 +12,7 @@ server.cfg
 
 # TR
 ## qb-jobChatqb-jobChat
-** mesleklere özel chat [qb]**
+**mesleklere özel chat [qb]**
 
 ### Komut
 - ``/jobc [message]`` Aynı mesleğe sahip kişilere giden bir mesaj
