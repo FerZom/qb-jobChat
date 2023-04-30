@@ -1,5 +1,5 @@
 # EN
-## qb-jobChatqb-jobChat
+## qb-jobChat
 **job/emergency chat for fivem using qb**
 
 ### Command
@@ -11,7 +11,7 @@ server.cfg
 - This mod uses qb-Core
 
 # TR
-## qb-jobChatqb-jobChat
+## qb-jobChat
 **mesleklere özel chat [qb]**
 
 ### Komut
